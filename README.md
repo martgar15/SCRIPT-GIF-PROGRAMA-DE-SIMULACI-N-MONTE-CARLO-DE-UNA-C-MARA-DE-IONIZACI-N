@@ -1,3 +1,3 @@
 # SCRIPT-GIF-PROGRAMA-DE-SIMULACI-N-MONTE-CARLO-DE-UNA-C-MARA-DE-IONIZACI-N
-En este repositorio encontramos un SCRIPT que permite generar GIFT's de las cámaras de ionización plano-paralela y cilíndrica. Para ejecutar el script es necesario hacerlo desde la terminal de linux mediante el comando ./camaraiomizacion.sh
+En este repositorio encontramos un SCRIPT que permite generar GIFT's de las cámaras de ionización plano-paralela y cilíndrica. Para ejecutar el script es necesario hacerlo desde la terminal de linux mediante el comando ./camaraionizacion.sh
 Es necesario tener instalado en la terminal tanto gfortran-11 como gnuplot. Esto puede hacerse mediante escribiendo en la terminal el comando sudo apt install gfortran-11. Una vez ejecutado el programa, se podrán elegir una serie de parámetros y se llevará a cabo una única simulación generándose un GIF.
